@@ -19,3 +19,7 @@ class Node:
     @next.setter
     def next(self, new_next):
         self._next = new_next
+
+
+
+        

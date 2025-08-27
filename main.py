@@ -5,6 +5,8 @@ my_linked_list = LinkedList()
 my_linked_list.insert_node(9)
 my_linked_list.insert_node(3)
 my_linked_list.insert_node(6)
+my_linked_list.insert_node(15)
 
-print(my_linked_list.head.next.next.value)
+my_linked_list.print_elements()
+
 
