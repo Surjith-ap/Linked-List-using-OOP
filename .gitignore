@@ -25,3 +25,17 @@ htmlcov/
 # Virtual environments
 venv/
 ENV/
+ 
+# Node modules and JS artifacts
+node_modules/
+package-lock.json
+
+# JetBrains IDE project files
+.idea/
+
+# Windows thumbnail cache
+ehthumbs.db
+Thumbs.db
+
+# Shortcut and installer files
+*.lnk
