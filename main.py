@@ -13,3 +13,5 @@ my_linked_list.print_elements()
 print(my_linked_list.delete_node(15))
 
 my_linked_list.print_elements()
+
+#configure main for better user experience
